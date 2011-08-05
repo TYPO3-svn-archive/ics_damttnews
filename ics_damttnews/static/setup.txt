@@ -1,0 +1,1 @@
+plugin.ics_damttnews.mode =  {$plugin.ics_damttnews.mode}

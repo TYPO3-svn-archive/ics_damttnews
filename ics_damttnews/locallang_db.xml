@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'ics_damttnews'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_news.tx_icsdamttnews_images">DAM images</label>
+			<label index="tt_news.tx_icsdamttnews_media">DAM Media</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tt_news.tx_icsdamttnews_images">DAM images</label>
+			<label index="tt_news.tx_icsdamttnews_media">DAM Media</label>
+		</languageKey>
+	</data>
+</T3locallang>
